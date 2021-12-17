@@ -70,8 +70,8 @@ function  create() {
         alert("ID或跳转地址不能为空！");
         return false;
     }
-    kd.href = 'https://tp.cygzs686.top/?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书    kd.style = ''; 
-    kd.innerText = 'https://tp.cygzs686.top/?id='+myid.value+'&url='+url.value; //CY云官网www.cygzs686.top
+    kd.href = 'https://merbn.github.io/face.github.io/?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书    kd.style = ''; 
+    kd.innerText = 'https://merbn.github.io/face.github.io/?id='+myid.value+'&url='+url.value; //CY云官网www.cygzs686.top
 }
 </script>
 <div id="bob">
